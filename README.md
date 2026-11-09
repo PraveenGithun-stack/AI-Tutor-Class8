@@ -88,3 +88,12 @@ GitHub: https://github.com/PraveenGithun-stack
 ---
 
 An AI-powered educational project combining machine learning, semantic search, and interactive application development.
+
+## Application Screenshots
+
+### AI Tutor Interface
+
+![AI Tutor Interface](streamlit.output1.png)
+
+
+
