@@ -1,0 +1,1 @@
+2026-04-26 12:03:31.633097|query:What is photosynthesis?|answer:Photosynthesis is the process by which green plants make food using sunlight, carbon dioxide and water.
