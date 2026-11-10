@@ -93,7 +93,7 @@ An AI-powered educational project combining machine learning, semantic search, a
 
 ### AI Tutor Interface
 
-![AI Tutor Interface](streamlit.output.png)
+![AI Tutor Interface](./streamlit.output1.png)
 
 
 
